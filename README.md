@@ -1,4 +1,4 @@
-Hi, I'm (danilo)[https://danilovladicic.com]. i code for fun.
+Hi, I'm [danilo](https://danilovladicic.com). i `code` for fun. and food. :) 
 
 <!--
 **DaniloVlad/danilovlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
